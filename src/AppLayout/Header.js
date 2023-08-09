@@ -7,7 +7,7 @@ function Header() {
             <h1 class="text-white text-lg">About</h1>
             <div>
                 <button class='border-white border-2 rounded-sm bg-white mt-2'>
-                    sign Out
+                    Log Out
                 </button>
             </div>
             </div>
