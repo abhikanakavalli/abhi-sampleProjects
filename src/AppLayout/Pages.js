@@ -14,10 +14,10 @@ function Pages() {
             borderWidth: '2px',
             borderColor: 'black',
             backgroundColor: '#ffffff',
-            '&:hover': {
-              backgroundColor: 'primary.main',
-              opacity: [0.9, 0.8, 0.7],
-            },
+            // '&:hover': {
+            //   backgroundColor: 'primary.main',
+            //   opacity: [0.9, 0.8, 0.7],
+            // },
             }}
         >   
         <div class='flex p-4'>
